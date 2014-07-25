@@ -1,9 +1,0 @@
-name: NoEntityItems
-main: com.mineactivity.noentityitems.Main
-version: 1.2
-author: Puharesource
-website: http://mineactivity.com/
-description: NoEntityItems, Removing item drops and exp orbs.
-commands:
-    nei:
-        description: NoEntityItems commands.

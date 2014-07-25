@@ -1,0 +1,12 @@
+name: NoEntityItems
+version: 2.0.0
+author: Puharesource
+website: http://puharesource.io
+description: NoEntityItems, Removing item drops and exp orbs.
+
+main: io.puharesource.mc.noentityitems.Main
+
+commands:
+  nei:
+    description: NoEntityItems commands.
+    usage: /nei reload
